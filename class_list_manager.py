@@ -1,6 +1,6 @@
  Class List Manager - Group _4_
 # MIS 211 Bonus Assignment (GitHub Teamwork)
-names = ["Sara", "Noura", "Lama", "Reem", "Amal", "Lama"]
+names = [" maha", "Latifah", "Raneem ", "Fatima", "Jumanah"]
 # ===== Each student adds her function BELOW this line =====
 def main():
 print("Welcome to the Class List Manager!")
